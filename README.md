@@ -1,16 +1,17 @@
-### Hi there 👋
+## :wave: I am Cruz
 
-<!--
-**KyunamChoi/KyunamChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in
 
-Here are some ideas to get you started:
+> - Machine Learning
+> - Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+to become a **Data Scientist** who solves real-world problems
+
+## :boom:Career:boom:
+
+|    **Type**    |     **Date**    |                    **Contents**                   |**Organization**|
+|:--------------:|:---------------:|:-------------------------------------------------:|:--------------:|
+| :mortar_board:**Education**  | 2012.03-2019.02 | Bachelor of Science in Industrial Engineering     |  **INHA Univ**     |
+| :mortar_board:**Education**  | 2019.03-2021.02 | Master of Science in Industrial Engineering       |  **INHA Univ**     |
+| :page_facing_up:**Research**   | 2019.09-2020.07 | Automatic Diagnosis System with DL, Thermal image |  **KHNP**          |
+| :office:**Internship** | 2020.07-2020.08 | Machine Learning Engineer(Data-Value Team)                         |  **KAKAO**         |
